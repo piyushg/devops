@@ -1,2 +1,2 @@
 # devops
-## Repository for dev ops projects
+## Repository for docker, docker-compose, kubernetes examples
