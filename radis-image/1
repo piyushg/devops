@@ -1,8 +1,0 @@
-# Use an existing image as base
-FROM alpine
-
-# Download and install a depedency
-RUN apk add --update radis
-
-# Tell the image what to do when it starts as a container
-CMD ["radis-server"]
